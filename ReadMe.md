@@ -34,7 +34,7 @@ const jinan: Developer = {
 
 
 <br/>
-<h5 align="center">🖥️ Frontend</h5>
+<h3 align="center">🖥️ Frontend</h3>
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,7 +58,7 @@ const jinan: Developer = {
 
 
 <br/>
-<h5 align="center">🔧 Backend</h5>
+<h3 align="center">🔧 Backend</h3>
 <div align="center">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -74,7 +74,7 @@ const jinan: Developer = {
 
 
 <br/>
-<h5 align="center">📚 Frameworks & Libraries</h5>
+<h3 align="center">📚 Frameworks & Libraries</h3>
 <div align="center">
 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
@@ -87,7 +87,7 @@ const jinan: Developer = {
 
 
 <br/>
-<h5 align="center">🛠️ Development Tools</h5>
+<h3 align="center">🛠️ Development Tools</h3>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -103,7 +103,7 @@ const jinan: Developer = {
 
 
 <br/>
-<h5 align="center">☁️ Cloud & Deployment</h5>
+<h3 align="center">☁️ Cloud & Deployment</h3>
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -118,7 +118,7 @@ const jinan: Developer = {
 
 
 <br/>
-<h5 align="center">🎨 Design & UI Tools</h5>
+<h3 align="center">🎨 Design & UI Tools</h3>
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
