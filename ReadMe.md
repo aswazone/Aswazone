@@ -33,7 +33,7 @@ const jinan: Developer = {
 ### 🚀 Tech Stack Overview
 
 
-<br/>
+<hr/>
 <h3 align="center">🖥️ Frontend</h3>
 <div align="center">
 
@@ -57,7 +57,7 @@ const jinan: Developer = {
 
 
 
-<br/>
+<hr/>
 <h3 align="center">🔧 Backend</h3>
 <div align="center">
 
@@ -73,7 +73,7 @@ const jinan: Developer = {
 
 
 
-<br/>
+<hr/>
 <h3 align="center">📚 Frameworks & Libraries</h3>
 <div align="center">
 
@@ -86,7 +86,7 @@ const jinan: Developer = {
 
 
 
-<br/>
+<hr/>
 <h3 align="center">🛠️ Development Tools</h3>
 <div align="center">
 
@@ -102,7 +102,7 @@ const jinan: Developer = {
 
 
 
-<br/>
+<hr/>
 <h3 align="center">☁️ Cloud & Deployment</h3>
 <div align="center">
 
@@ -117,7 +117,7 @@ const jinan: Developer = {
 
 
 
-<br/>
+<hr/>
 <h3 align="center">🎨 Design & UI Tools</h3>
 <div align="center">
 
@@ -128,7 +128,7 @@ const jinan: Developer = {
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 </div>
-
+<hr/>
 
 
 
