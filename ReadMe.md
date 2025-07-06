@@ -17,7 +17,7 @@ interface Developer {
     challenge: string;
 }
 
-const jinan: Developer = {
+const aswin: Developer = {
     name: "Aswin",
     role: "Full Stack Developer",
     languages: ["JavaScript", "TypeScript", "Java", "C"],
