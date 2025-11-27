@@ -24,7 +24,6 @@ const aswin: Developer = {
     challenge: "Building innovative applications with cutting-edge technologies"
 };
 ```
-🔭 I’m currently working on Tutor-LMS project<br>🌱 I’m currently learning Nextjs<br>💬 Ask me about UI designs ideas
 
 
 ## 🌐 Socials:
